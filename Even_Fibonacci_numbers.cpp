@@ -23,7 +23,6 @@ long int evenFib(int n) {
 // Driver Code
 int main() {
     int n=7;
-    cout<<n;
-    // cout<<evenFib(n);
+    cout<<evenFib(n);
     return 0;
 }
